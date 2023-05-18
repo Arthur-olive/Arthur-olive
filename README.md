@@ -1,12 +1,9 @@
 
 ## Olá, Eu sou o João Arthur 🤚
-### °  Estudante de Engenharia da computação
-
-[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/) 
-
-
-
+### - Estudante de Engenharia da computação 🎓
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-olive&show_icons=true&theme=transparent)
+
+[![Social](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)
 
 ## Tecnologias:
 
