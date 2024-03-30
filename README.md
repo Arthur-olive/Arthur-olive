@@ -1,6 +1,6 @@
 
 <h1>Olá, Eu sou o João Arthur</h1>
-<p>Estudante de Engenharia da computação 🎓</p>
+<p>Engenharia da computação 🎓</p>
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-olive&show_icons=true&theme=transparent)
 
