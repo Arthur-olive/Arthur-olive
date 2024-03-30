@@ -1,5 +1,5 @@
 
-## Olá, Eu sou o João Arthur 🤚
+<h1>Olá, Eu sou o João Arthur</h1>
 ### - Estudante de Engenharia da computação 🎓
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-olive&show_icons=true&theme=transparent)
 
