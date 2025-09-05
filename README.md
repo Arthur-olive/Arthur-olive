@@ -1,5 +1,6 @@
 
-<h1>Olá, Eu sou o João Arthur</h1>
+<h1>Meu portifólio: https://arthur-olive-portifolio.vercel.app/ </h1
+<p>Olá! me chamo João Arthur de Oliveira Pereira, sou graduando de engenharia da computação e sou desenvolvedor front-end, gosto de criar experiências web únicas e memoráveis. Combino um estilo minimalista com design moderno para desenvolver sites que não só funcionam perfeitamente, mas também impressionam visualmente.</p>                            
 <p>Engenharia da computação 🎓</p>
 
 ![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arthur-olive&show_icons=true&theme=transparent)
